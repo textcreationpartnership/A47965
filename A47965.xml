@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter concerning the disabling clauses lately offered to the House of Commons, for regulating corporations.</title>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47965</idno><idno type="EEBO-CITATION">12927065</idno>
+  <idno type="VID">95546</idno>
+  <idno type="EEBO-PROQUEST">2240862481</idno>
+  
+            <idno type="STC">Wing L1351</idno>
+            <idno type="STC">ESTC R230830</idno>
+            <idno type="OCLC">12927065</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 986:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter concerning the disabling clauses lately offered to the House of Commons, for regulating corporations.</title>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>To be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Errata: p. 22.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons.</term>
+               <term type="topical_term">Corporations --  Great Britain.</term>
+               <term type="topical_term">Corporation law --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95546:1"/>
+            <pb facs="tcp:95546:1"/>
+            <p>A LETTER Concerning the DISABLING CLAUSES Lately offered to <hi>The House of Commons,</hi> FOR REGULATING CORPORATIONS.</p>
+            <p>
+               <hi>LONDON,</hi> To be Sold by <hi>Randal Taylor,</hi> near STATIONERS-HALL. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:95546:2"/>
+            <pb n="3" facs="tcp:95546:2"/>
+            <head>A LETTER CONCERNING The Disabling Clauses, lately offer<g ref="char:EOLhyphen"/>ed to the House of Commons, for Regulating Corporations.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have procured Copies of the Clauses you de<g ref="char:EOLhyphen"/>sired, which are the inclosed; but I wish you had omitted those Commands, whereby I am obliged to give you an Account of the Conduct, and my Sense touching the Design and Conse<g ref="char:EOLhyphen"/>quence of them. For I cannot, without great reluctance, undertake to resolve the Mystery of a Project, formed by Gentlemen of the chief Rank in Parliament Business. But I must not dispute your Injunctions, which, with<g ref="char:EOLhyphen"/>out the Parliament's Help, are Laws to me, therefore I submit.</p>
+            <p>The Design was industriously concealed, till after the Corporation Bill had been brought in, debated, both in the House, and at the Committee, and reported; and upon — when the House was possess'd of the Report from the Committee, these Clauses, ready
+<pb n="4" facs="tcp:95546:3"/>drawn in the Form you see, were first spoke of, and offered to be made part of the Bill. This was soon af<g ref="char:EOLhyphen"/>ter the Christmas-Recess, when the House was thin; for had the matter been inserted in the Bill, or brought in at the Committee, the Alarm had been taken, and few Members would have failed to attend it. For those who were jealous of Stratagems, to influence future Elections, expected to hear of them in the Transaction of that Bill; but finding it settled in a harmless Resti<g ref="char:EOLhyphen"/>tution to the State of 1675, (which was generally ap<g ref="char:EOLhyphen"/>proved) without any contrivance extraordinary, began to think all Designs of that nature laid aside; and therefore took the opportunity of the Holy-Days, to visit their Country Affairs; and few were returned when this happened; however great Opposition was made, and many Qualifications and Amendments of<g ref="char:EOLhyphen"/>fered, one particularly was, That the old Regulators might be disabled also for Company. But all were re<g ref="char:EOLhyphen"/>jected, and the Votes past for admitting the Clauses, and ingrossing the Bill accordingly; which was soon ready, and called for.</p>
+            <p>You observe here a well tempered Craft; for if the Clauses had come in upon reading the ingrossed Bill, by way of <hi>Rider,</hi> they had passed, <hi>uno flatu,</hi> without a second opposition; but then the surprise had been too gross, and eminent, and might have hurt the business in the Lords House. And yet an opportunity was found, which might perfect the Work in two days, without notice or jealousie in the Opposers, and the surprise less, without danger of miscarrying.</p>
+            <p>The ingrossed Bill was read upon Saturday after, and upon a motion for time, the Consideration of it was put off till Friday following, near a Week; by which time most of the absent Members were expected; and this was done with the Concurrence of the Promoters,
+<pb n="5" facs="tcp:95546:3"/>which was thought a wonderful Pass; some say the rea<g ref="char:EOLhyphen"/>son was, that his Majesty was pleased to express his dislike of the thing; Whereupon it was affirmed, as a Test of its Utility, that the Majority of the House were for it; which shou'd be demonstrated by a Trial at an indifferent time. And Mr. — declared, if it fail'd he wou'd never come into that House more.</p>
+            <p>It seems one days Success had created a great Confi<g ref="char:EOLhyphen"/>dence, and produced this Undertaking in point of Party; And to shew of what Import the Point was I must add, that upon <hi>Friday,</hi> — when the Debate came on, the House was considerably full and it lasted twelve hours, they divided several times, and there was not six Mem<g ref="char:EOLhyphen"/>bers absent in any one Division. The Votes pass'd for rejecting the Clauses; but if the contrary had suc<g ref="char:EOLhyphen"/>ceeded, then (if what is confidently said may be be<g ref="char:EOLhyphen"/>lieved) the Common-Council of <hi>London</hi> would have been press'd to Address to the King for dissolving this and calling a New Parliament. And then the fruits of all this Art, and pains had soon fallen into Enjoy<g ref="char:EOLhyphen"/>ment.</p>
+            <p>We hear also that he, who brought in the chief Clause, was unwilling to venture it upon the plain Ri<g ref="char:EOLhyphen"/>gour of that, which was Voted the other day; and be<g ref="char:EOLhyphen"/>gan the Debate with another more Moderate, as it was styled, but many perceiv'd it to be so in shew more than substance; and thereupon it was rejected upon the bare opening, without Reading. These were the pub<g ref="char:EOLhyphen"/>lick steps of the Business; but before I proceed to dis<g ref="char:EOLhyphen"/>sect the Clauses, and shew the Admirable Justice, Char<g ref="char:EOLhyphen"/>rity, and Humanity of them; I must beg the favour, to state in a few words the matter of Surrenders of Cha<g ref="char:EOLhyphen"/>ters, the foundation whereupon this Fabrick was to be Erected.</p>
+            <pb n="6" facs="tcp:95546:4"/>
+            <p>The beginning of that Humour, for so I must call it, was upon the clearing up of very unquiet and dangerous Times; I mean, after my Lord <hi>Shaftsbury</hi> left <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and all those Designs he was Embarqu'd in, began to be laid open and frustrated: then it was that a Warmth, and Spirit in the more indifferent sort of Men, began to appear in favour of the Monarchy, and Go<g ref="char:EOLhyphen"/>vernment. And, as naturally Men love to express their good will, so in that time they were strangely inclined, to declare their Duty, and Affection to the Govern<g ref="char:EOLhyphen"/>ment, by Addresses; this produced a Reciprocation on the other side; so as those that were then at the Helm, desired very much to gratifie those Men with any Fa<g ref="char:EOLhyphen"/>vour, or Countenance that the Government could shew; and nothing of Markets, Fairs or the like Advantages could be asked, but were readily granted. And divers of the Nobility, and most of the considerable Gentry were pleased to join themselves with Corporations in these matters, and were their Mediators above, in the pro<g ref="char:EOLhyphen"/>curing them what Advantages they desired. This pro<g ref="char:EOLhyphen"/>duced the renewing of very many Charters, whereby the Revenues, and Priviledges of the Towns were great<g ref="char:EOLhyphen"/>ly Enlarged, and these wanted not those, who were ready, and desirous to oblige them in easing the Charge, And thus the Government was gratified by an Opportunity to countenance Friends, and the Towns had their Ac<g ref="char:EOLhyphen"/>count in Revenues and Priviledges.</p>
+            <p>Afterwards, when the Case of <hi>London</hi> had put the Government to a stand, and there was a publick and avowed stop put to the course of Justice there; and it became necessary, if possible, to remove that grievance; the King found no Method so proper, and justifiable, as that of the Law; and resolved to proceed accordingly. And thereupon a Process of <hi>Quo Warranto</hi> was sent out against the City, and Crimes of forfeiture Assigned,
+<pb n="7" facs="tcp:95546:4"/>the fact of which was not denied, but the Law disputed, and at last Judgment was given for the King.</p>
+            <p>Then it was not long before these reasonable pro<g ref="char:EOLhyphen"/>ceedings, by unreasonable, and forward Men, began by degrees to be drawn into Abuse, and at last to be an In<g ref="char:EOLhyphen"/>tolerable Grievance. For great Men valued themselves at Court upon bringing in of Charters, and used, I should say Abused, the King's Process of <hi>Quo Warranto,</hi> now fortified by the Judgment against <hi>London,</hi> to assist them in it. It cannot be expected that such people as live in Corporations should have the Vertue, and Cou<g ref="char:EOLhyphen"/>rage of <hi>Cato</hi>'s, to withstand the Attacks of Powers, at the peril of their own Quiet, and Fortunes; and they yet were generally quiet and good Men, and such as conformed to the establish'd Laws, and Government in Church, and State. And chose to die rather in com<g ref="char:EOLhyphen"/>pliance with, than oppositions to their Superiors. If when these Men were tempted with Promises, Threats, and present benefits to their Town, and by Men of Credit in the Country, as well as Power at Court; when they thought it was a vain thing to contend; it is no wonder that they were over persuaded, to Renew, and accordingly consented as was lawful for them to do, in a matter of common Interest.</p>
+            <p>Thus far the Citizens and Inhabitants of Corpo<g ref="char:EOLhyphen"/>tions, who dream'd not of the Inconveniences of these proceedings, are excusable; what ever may be said of those, who wrought upon them; And I may confi<g ref="char:EOLhyphen"/>dently affirm, that this Case is so general, that most of the substantial, reputable, and conformable people in Cities, and Towns all over <hi>England,</hi> are concerned. Nay many of the Nobility, as Stewards, and Recorders, as well as most of the considerable Gentry in <hi>England,</hi> who were Members or Friends of Corporations, will be found in the same Circumstance.</p>
+            <pb n="8" facs="tcp:95546:5"/>
+            <p>There is but one degree more, and that is Superla<g ref="char:EOLhyphen"/>tive. I mean such who projected the modelling of Corporations, to influence Elections of Members to Parliament; and sent <hi>Itinerant</hi> Regulators all over <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to tamper with the Inhabitants, and either to find out Men of themselves disposed, or who might be per<g ref="char:EOLhyphen"/>suaded to serve turns; and accordingly to place, and displace them under the Power reserved in new Char<g ref="char:EOLhyphen"/>ters. And to these I must add the Regulators them<g ref="char:EOLhyphen"/>selves, and such as complied with them, and were there<g ref="char:EOLhyphen"/>fore put into Offices in Corporations, and to shew their Inclinations, acted without being qualified by Law. I cannot say much for these, but I hope a great many were deceived and mistaken; and so far they are to be considered, but certainly without such allowance, they have a great deal to answer for.</p>
+            <p>Now, Sir, I have presented you with three Orders of Persons concerned in Surrenders. The first were Be<g ref="char:EOLhyphen"/>nefactors to their Towns. The second well meaning, and honest, as well as able Men, but mistaken. The last are the worst, especially those who understood the Intrigue, which was then open enough. These are but an handful compared with the multitudes of others, who either judged, and did as they ought, or else were innocently mistaken. And to do them right, I must needs say, they deserve Praises, rather than Reproach or Punishment. For when that Flood of Regulators came upon Corporations, and all tending to the subver<g ref="char:EOLhyphen"/>sion of the Establish'd Laws, they chiefly, if not onely, were the Men who bore the brunt, stood out, and were displac'd, with all possible discountenance. Which shews as soon as they saw the evil, they avoided it, and bore the Inconveniences with resolution, while others, that shall be nameless, yielded, and were preferred to the Magistracy.</p>
+            <pb n="9" facs="tcp:95546:5"/>
+            <p>Here you have a State of the Persons, who had been concerned in this new Law, if it had past; and I believe you will judge, as I think them, to com<g ref="char:EOLhyphen"/>prehend much the Major part of Substantial and Conformable Men in the Kingdom; especially such Parts as are most concerned in Elections to Parlia<g ref="char:EOLhyphen"/>ment, and now I hope you are prepared to consider the subject matter of these Corporation Clauses.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="clause">
+                        <head>The Clause offered by Mr. — to be ad<g ref="char:EOLhyphen"/>ded to the Bill for restoring Corpora<g ref="char:EOLhyphen"/>tions, admitted upon the — of <hi>January.</hi>
+                           <note place="margin">Quaere whether Mr. <hi>Sache verel.</hi>
+                           </note> 1689/90. and enacted the — after</head>
+                        <p>
+                           <hi>And Whereas it is necessary for the sake of Publick Justice, and securing the Government for the future,</hi>
+                           <note place="margin">Preamble</note>
+                           <hi>that such open attempts upon the Constitution, and so notorious violations of Oaths, and Trusts, should not go unpunished; lest hereafter ill Men might be encouraged to the like guilt, in hopes to come off with Impunity, though they should fail of success.</hi>
+                        </p>
+                        <p>
+                           <hi>Be it Enacted by the Authority aforesaid,</hi>
+                           <note place="margin">Enacting par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s</note>
+                           <hi>that eve<g ref="char:EOLhyphen"/>ry Mayor, Recorder, Alderman, Steward, Sheriff, Com<g ref="char:EOLhyphen"/>mon-Council-man, Town-Clerk, Magistrate, or Officer; who did take upon him to consent to, or joyn in, any such Surrender, or Instrument purporting such Surrender as aforesaid. Or did solicit, procure, prosecute, or did pay or contribute,</hi>
+                           <note place="margin">Persons offending</note>
+                           <hi>to the charge of prosecuting any</hi> Scire facias, Quo warranto, <hi>or Information in the nature of</hi> Quo Warranto, <hi>by this Act declared void, shall be, and is declared, adjudged,</hi>
+                           <note place="margin">Penalty</note>
+                           <hi>and Enacted to be for the space of seven years uncapable, and disabled to all Intents, and purposes to bear, or execute any Office, Imployment,
+<pb n="10" facs="tcp:95546:6"/>or place of Trust, as a Member of such respective Body Corporate, or in or for such respective City, Town, Burg, or Cinque port, whereof, or wherein he was a Member, at, or before the time of making such Surrender, or Instru<g ref="char:EOLhyphen"/>ment purporting such Surrender, or the suing out, or prosecuting such</hi> Scire facias, Quo warranto, <hi>or Infor<g ref="char:EOLhyphen"/>mation in nature of</hi> Quo warranto, <hi>any thing in this Act contained, or any other Case, Statute, or any Ordi<g ref="char:EOLhyphen"/>nance, Charter, Custom, or thing to the contrary in any wise notwithstanding.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After you have perused this first Clause: I desire you will consider, first the Design, secondly the Pru<g ref="char:EOLhyphen"/>dence, and lastly the Justice of it. As for the Design, it is manifestly no other than to render all those Men, who were any way concurring in the renewals of Charters, incapable of either being chosen to serve in Parliament for Cities or Burroughs, or of being so much as concerned in the management of Parliamen<g ref="char:EOLhyphen"/>tary Elections and Returns; what these Men are I have hinted, <hi>viz.</hi> the generality of the Eminent Inha<g ref="char:EOLhyphen"/>bitants of Corporations, and Neighbouring Gentlemen, and to use a known denomination, the whole Church of <hi>England</hi> Party. For such they generally were, who consented to Surrenders, and yet opposed the torrent of Regulations, and their scandalous attempts to corrupt Elections, with a Zeal and Firmness be<g ref="char:EOLhyphen"/>coming <hi>English-men.</hi> And how general a case this is, I must leave you to judge.</p>
+            <p>Then on the other side, the whole business of Ele<g ref="char:EOLhyphen"/>ctions in Corporations, must in consequence devolve upon those, who have continually oppos'd themselves to the former, in all instances of publick business,
+<pb n="11" facs="tcp:95546:6"/>that is, such as have been ever uneasie under, and perpetually tampering to alter the Established Laws and Government, both in Church and State; and want that easie and conformable temper the others have; and are generally known by the name of Dis<g ref="char:EOLhyphen"/>senters. These will be the only qualifyed Persons to serve in Parliament for Cities, and Towns, (who send four times as many as the Counties,) and to ma<g ref="char:EOLhyphen"/>nage, and judge the Elections of others; and make returns as they shall think fit. So that by this one stroak, if it had prevailed, all the Corporations in <hi>England,</hi> and their Interest in Parliament, had been regulated into the hands of one Party of Men; and then considering, first, the Power that Magistrates have in the conduct of Elections, by notice, time, place, countenance, and the like; and to return whom they please, whoever is chosen: And then next, the course of determining disputed Elections above, all which that Party understand full well; it is easie from the complexion of the first returns, to calculate the tem<g ref="char:EOLhyphen"/>per, and successes of a future Parliament; in case it were chosen and return'd under the Dispensation of this Law. Now I must refer it to your judgment, whether all those violations and attempts, which the Preamble reproves, and pretends to reform, be not out-done, and the Persons that the Regulators were sent to discover, found out by this very Clause; so strangely will Extremes sometimes meet: That this was the only Design will appear from many Conside<g ref="char:EOLhyphen"/>rations.</p>
+            <p n="1">1. There is no sort of harmony nor proportion between the Preamble and the Enacting Part; you observe what a tragical and fierce strain the former
+<pb n="12" facs="tcp:95546:7"/>is in, ratling together the high terms of Publick Ju<g ref="char:EOLhyphen"/>stice, Government, Violations, Oaths, <hi>&amp;c.</hi> Whereby one wou'd imagin either an High Court of Justice, to find out, and punish such enormous Offenders, or else some new declaratory Law, with the severest pe<g ref="char:EOLhyphen"/>nalties were coming out. <hi>Quid proseret dignum tanto promissor hiatu?</hi> Then the Enacting Part is only, that a Party of Men shall not be Mayors, <hi>&amp;c.</hi> of Towns for seven years. This I confess is a new and strange punishment, but scarce equal to the Thun<g ref="char:EOLhyphen"/>der of the Preamble; therefore we must believe the former is but a gloss, or varnish to set off the other, which would not go down without some fair and po<g ref="char:EOLhyphen"/>pular pretence.</p>
+            <p n="2">2. That which the Preamble most plausibly pre<g ref="char:EOLhyphen"/>tends, is in no sort provided by the Law, that is a Reformation of the abuse, and preventing of the like for the future; for it contains neither a Declaration of the Law, nor so much as a Prohibition, whereby consenting to Surrenders for the future may be ad<g ref="char:EOLhyphen"/>judged unlawful, and punish'd as it deserves; but Men may offend on to the end of the Chapter, and have nothing to fear, but such another Act of Parliament as this, and how terrible a consideration that would be, I leave you to judge. Therefore it is plain even to Demonstration, that the regulation of the abuse pre<g ref="char:EOLhyphen"/>tended by the Preamble, was not the aim of this Law, but somewhat else.</p>
+            <p n="3">3. There is no mark set upon those who were in<g ref="char:EOLhyphen"/>deed the great Criminals: I mean Regulators, and such as by force, and fraud extorted Charters, and Surrenders from Corporations, without the free con<g ref="char:EOLhyphen"/>sent
+<pb n="13" facs="tcp:95546:7"/>of the body; who indeed do deserve animadver<g ref="char:EOLhyphen"/>sion: Nor on the other side any consideration of those, who either actually did great service to the Towns, or thought they did, and were mistaken; but all that consented, which includes almost all the then active Members, and those that solicited or pro<g ref="char:EOLhyphen"/>cured, which takes in the Nobility and Gentry, who were Stewards, Recorders, <hi>&amp;c.</hi> all these without re<g ref="char:EOLhyphen"/>spect or distinction, are laid under a Disability <hi>Nullo discrimine;</hi> which consideration makes it plain, that a Party of Men were to be shut out, and another Party brought into Offices; and so into the Parlia<g ref="char:EOLhyphen"/>ment: And since they could not expect to prevail in a bare fac'd Description, or Character; they must find a disguise, such as might seem to look another way, be Taking, and truly distinguish the several Parties: Which no Character could better accomplish, then this of Consenters, and Non-Consenters to Surrenders of Charters.</p>
+            <p>Next to observe the Prudence of this desirable Law, let it be allowed for discourse sake, that the intent was sincerely no other than is pretended, to discountenance Surrenders, you will see the admirable policy of it, with respect to the publick.</p>
+            <p n="1">1. It revives a troublesom and scandalous Faction, which had formerly divided most great Towns, and almost the whole Kingdom, which time and common dangers had almost laid asleep; for what can such a distinguishing Character produce, as Consenter, and Non Consenter; but the perfection of Whig and To<g ref="char:EOLhyphen"/>ry? It must needs be very productive of Rancour, Malice, and all Uncharitableness; for when one Party
+<pb n="14" facs="tcp:95546:8"/>is to be erected, and another depressed, and disgraced, and not be permitted to live together in the equal enjoy<g ref="char:EOLhyphen"/>ment of the known Laws, if all the Mischiefs of Facti<g ref="char:EOLhyphen"/>on, Tumult, and Discontent follow, it is not to be wondered at.</p>
+            <p n="3">3. And it cannot fail to be so in this Case. For the distinction of Consenter and Non-Consenter is to come in play at Elections of Members of Parliament, and Magistrates for Corporations, when the People are heated, and most apt to be irregular. And if any spightful petulant Fellow (of which sort there is never any scarcity) will but object to another, that he is a Consenter, with design to oppose his Election; there is no means to clear the point, and the stoutest Fists and Shoulders, if not worse Weapons, must carry it, which will make mad work in Corporations, especially such as act popularly.</p>
+            <p>Then next consider the Justice of this Clause, with respect to Equity, and the <hi>Course of Law;</hi> whereby you will plainly see, that all the Absurdities and Iniquity in Nature must be swallowed, to make way for the set<g ref="char:EOLhyphen"/>ting up a Party; and it will appear, that there is scarce a common Principle of Legislature, that is not contra<g ref="char:EOLhyphen"/>dicted by this Law.</p>
+            <p>As 1. Men are condemned without Tryal, or Con<g ref="char:EOLhyphen"/>viction; but having ever consented to a Surrender, without more, stand disabled. Some Acts of Parlia<g ref="char:EOLhyphen"/>ment have disabled persons upon the offence done, but only as to Offices then in possession, because they can<g ref="char:EOLhyphen"/>not be removed without the liberty to try the Fact upon which the Disability depends in defence of their
+<pb n="15" facs="tcp:95546:8"/>Possession. This is the Case of all our <hi>ipso facto</hi> Avoi<g ref="char:EOLhyphen"/>dances, and upon the Statute, 25. <hi>Car.</hi> 2. for a Test against Popish Recusants, and divers other Laws. But there never was a Law yet, that I am advised of, to disable Men in general, as to all Offices not in posses<g ref="char:EOLhyphen"/>sion, without a Conviction antecedent. The Reason is, that it would be impossible ever to know when we had a good Officer, and when not. And the Validity of their Acts upon which the Subjects Titles often depend, would lie under uncertainties. A Conviction upon Record is a determinate thing, and incontrovertible; therefore in such Case, the Laws are to run—and be<g ref="char:EOLhyphen"/>ing thereof convicted—shall stand disabled, <hi>&amp;c.</hi> But as this Clause is, Mankind'must be endued with an extra<g ref="char:EOLhyphen"/>ordinary intuitive, or rather Prophetick Faculty, to know whether hereafter it may not appear, or be proved, that any person whatever at some time or other consent<g ref="char:EOLhyphen"/>ed to a Surrender. And then down fall his Acts, espe<g ref="char:EOLhyphen"/>cially such as are Judicial, into Nullities.</p>
+            <p>The Punishment is inflicted for doing what was then, and is still lawful; that is the bare consenting to a Sur<g ref="char:EOLhyphen"/>render: it would be an admirable Secret in the Law, if it could be made out, that Men shall be bound to give a Judgment by way of Vote, in a matter of common Interest, and doing it according to their Consciences, shall become Criminal. By this Rule it will be dan<g ref="char:EOLhyphen"/>gerous to vote at Elections for Members of Parliament, Choice of Magistrates, or indeed to vote in the Parlia<g ref="char:EOLhyphen"/>ment it self. If it shall be said afterwards, that it was done corruptly, and to a bad end: and therefore shall be a Character to draw a punishment. Surely People must sleep, that do not think of this; but however it will not be denied, that Consenting might possibly be
+<pb n="16" facs="tcp:95546:9"/>innocent in some Men, and I affirm it was in multi<g ref="char:EOLhyphen"/>tudes, and of the best account. Then I would ask first, why is the bare Consent made criminal, with out a previous Judgment, whether it were given with a good mind, or a bad mind? Then why the good and the bad are involved in the same Condemnation with<g ref="char:EOLhyphen"/>out distinction? <hi>Et eris Apollo.</hi> But after all, I have heard, and take it for Law, that Fraud is not to be assigned in lawful Acts. Therefore whether done with-good or bad intent, is not material, unless the Fact be unlawful.</p>
+            <p n="3">3. Men are condemned in the Legislative Way by Retrospection, that is, what Men acted lawfully seven years ago, is by this Clause now become unlawful, and punished by an Act of Parliament, <hi>Ex post.</hi> so that if this method comes in fashion, Men must not regulate their Actions by the Laws now in force, nor expect to be justified by them, but by those which are to be made seven years after; and so the Laws, instead of a Rule, and a Security, will be made a Snare; and it will be unreasonable to expect, that Men should rely upon any other Security, than Combinations of Force, for ordinary Protection; which seems to lay the Ax to the Root, and to subvert all Law and Government whatever. This is plainly done in this Clause; for if Men acted unlawfully, prosecute them by Law, now it is open, and purely administred. If they acted law<g ref="char:EOLhyphen"/>fully, why must a Law be made for the Nonce, to disable and disgrace them.</p>
+            <q>
+               <pb n="17" facs="tcp:95546:9"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="clause">
+                        <head>The Clause brought in by Sir — upon the same day, and rejected, <hi>&amp;c.</hi>
+                           <note place="margin">
+                              <hi>Quaere</hi> whether not Sir <hi>Robert Howard.</hi>
+                           </note>
+                        </head>
+                        <p>
+                           <hi>And be it further Enacted by the Authority aforesaid,</hi>
+                           <note place="margin">Persons disabled acting.</note>
+                           <hi>that if any person hereby enacted, and declared to be in<g ref="char:EOLhyphen"/>capable, and disabled to bear, or execute any such Office, Imployment, or Place of Trust as aforesaid, shall at any time after the twenty fifth day of</hi> March, 1690,
+<note place="margin">Time.</note>
+                           <hi>take upon him to bear, or execute any such Office, Imployment, or place of Trust, as aforesaid, every such person shall forfeit the Sum of five hundred pounds,</hi>
+                           <note place="margin">Five hun<g ref="char:EOLhyphen"/>dred pounds forfeit. Remedy.</note>
+                           <hi>to be recovered by any Member or Inhabitant of the respective Body Corpo<g ref="char:EOLhyphen"/>rate, City, Town, Burrough, Cinque-Port, who shall sue for the same, by Action of Debt, Bill or Plaint in any of their Majesties Courts of Record at</hi> Westminster; <hi>where<g ref="char:EOLhyphen"/>in no Essoin, Protection, Privilege, or Wager of Law, or more than one Imparlance, shall be allowed.</hi>
+                           <note place="margin">Farther Disability.</note>
+                           <hi>And also upon Verdict found, or Judgment given by confession, or otherwise in such Action against the Defendant, the said Defendant shall be for ever incapable to bear or execute any Office or Place of Trust whatsoever within this King<g ref="char:EOLhyphen"/>dom of</hi> England, <hi>or Dominion of</hi> Wales.</p>
+                        <p>
+                           <hi>Provided also, and be it Enacted,</hi>
+                           <note place="margin">Provision against fraudulent Actions.</note>
+                           <hi>that a former Action depending shall be no Plea for the Defendant in any Action to be brought upon this Statute, if such for<g ref="char:EOLhyphen"/>mer Action hath depended by the space of three Terms; nor shall a Non suit of the Plaintiff, or a Judgment for the Defendant in any former Action, be a Bar to the Plain<g ref="char:EOLhyphen"/>tiff, in any Action to be brought upon this Statute.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="18" facs="tcp:95546:10"/>
+            <p>This Clause is to inforce the former with a Penalty of five hundred pounds, <hi>&amp;c.</hi> I observe.</p>
+            <p n="1">1. That neither the King, nor the Poor have any share; the King must needs be excluded, else general or particular pardons might extend to discharge such as should be so unhappy to fall under question, as very many of necessity must; and so Suits and Animosities between Neighbors, upon Factions Matters be deter<g ref="char:EOLhyphen"/>mined; and after so little Charity, it is no wonder the Poor are left out.</p>
+            <p n="2">2. Only a Member, or Inhabitant of the Corpora<g ref="char:EOLhyphen"/>tion shall have the Action. It had been better for the Remedy, if any Man might have sued as Informer; but the Quarrel must be within the Town, to keep up a Faction and Spirit amongst them, which is much more advanced, when Law-Suits are stirred between Neigh<g ref="char:EOLhyphen"/>bor and Neighbor, than when between Neighbor and Stranger; for then the People will not be divided, but all take their Neighbor's part.</p>
+            <p n="3">3. The most reasonable Privilege, that the Law gives Defendants by pleading <hi>Anter foits Acquit,</hi> that is, a Verdict for him in a former Suit, to bar a new Action for the same Cause, is here taken away: so that a Man can never know his Peace. For forty may sue him one after another, and he is not discharged by thirty nine Verdicts, but if the fortieth nicks a Conjuncture, he is gone; <hi>&amp; sic ad infinitum.</hi> And we know how accidental such Suits are, in mutable times: therefore it is barbarous, not to allow a Man the Benefit of a Ver<g ref="char:EOLhyphen"/>dict, as in other Cases. This, I must confess, is a thump<g ref="char:EOLhyphen"/>ing Condition of a Penalty, and if any Man shall but
+<pb n="19" facs="tcp:95546:10"/>peep out, being a suspected Consenter, let him beware, here is the Rod, be wise, and go home again: for at one time or other he will repent it. If this will not clear the Coast of Consenters, I know not what will.</p>
+            <p n="4">4. The Disability as to all Offices, doth not attach without Conviction, which reproves the former Clause sufficiently; for I would fain know what makes the Difference, why a man shall be disabled, as to all Offices in a particular Corporation, but not as to all Offices in <hi>England.</hi> I will agree, the Mischief in the latter Case is greater, but the Reason is the same in both.</p>
+            <p>Now, Sir, I believe you will wonder, that a Clause should be penned, with so many open and gross Ob<g ref="char:EOLhyphen"/>jections as these are; the only Account I can give of it is, that the Design of excluding the Church of <hi>England</hi> Party out of Parliaments for seven years, until the Na<g ref="char:EOLhyphen"/>tion shall be settled upon new, and, as some fancy, bet<g ref="char:EOLhyphen"/>ter Principles, could not be dressed up with less Incon<g ref="char:EOLhyphen"/>venience. For it must not appear bare faced, and the most plausible pretence must be made use of, that is, Charters. After that word, it was thought nothing would stick. I must agree, that the Clause is apposite, and cunning enough for the purpose; because if all men must be indicted, and tryed, or actual Penalties in<g ref="char:EOLhyphen"/>flicted, as in Cases of common Offenders against the Laws; This Case (granting it to be, as it is not, cri<g ref="char:EOLhyphen"/>minal) is so general, that such a Proceeding would prove an Inquisition, as insupportable to the Nation, as that of <hi>Goa.</hi> Therefore such a Course was impracti<g ref="char:EOLhyphen"/>cable; but a silent Disability inflicted by the Legisla<g ref="char:EOLhyphen"/>tive, under a general Character, without the trouble of hearing particulars, calls no man out of his House,
+<pb n="20" facs="tcp:95546:11"/>but leaves Men to be convicted by their own consci<g ref="char:EOLhyphen"/>ences, in which case, it was to be presumed, they would not dare to appear and Act in Offices: And they are given to understand by the next Clause (of which anon) that if they are peccant, woe be to them. And thus so great, and important a part of the Na<g ref="char:EOLhyphen"/>tion, must be dar'd out of publick Trusts, like Larks under a Hobby. I suppose by this time you are ful<g ref="char:EOLhyphen"/>ly satisfied of the Design, and Mischiefs accumulated in this Clause. I have been the longer upon it; be<g ref="char:EOLhyphen"/>cause it is the Foundation, and body of the Project▪ and there will be less occasion to trouble you, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on the rest.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proviso">
+                        <head>The Proviso brought in together with the second Clause and Rejected.</head>
+                        <p>
+                           <hi>Provided always,</hi>
+                           <note place="margin">Exempti<g ref="char:EOLhyphen"/>on if the Majority agreed.</note>
+                           <hi>that no Alderman, or Common Council-Man, who after the last day of</hi> Michaelmas <hi>Term, in the year of our Lord</hi> 1683. <hi>did consent to, or joyn in any such Surrender, or Instrument purporting such Surrender as aforesaid, to which Surrender, or In<g ref="char:EOLhyphen"/>strument the greater number of the Members of such re<g ref="char:EOLhyphen"/>spective Corporation, or of the Common Council-Men of the same, did agree at the time of making thereof, shall for, or by reason of the same, be lyable to the disability or incapacity aforesaid.</hi>
+                        </p>
+                        <p>
+                           <hi>And it is further Enacted, that no Instrument, or Surrender,</hi>
+                           <note place="margin">Evidence of the Majority.</note>
+                           <hi>or Inrolment on record thereof, or Act of Common Council, or Entry in the Books of the respe<g ref="char:EOLhyphen"/>ctive Corporation, shall be allowed for Evidence, to prove that the greater number of the Members of such respective Corporation, or of the Common Council-Men of
+<pb n="21" facs="tcp:95546:11"/>the same, did agree to such Surrender, or Instru<g ref="char:EOLhyphen"/>ment.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This is Calculated to answer some Objections; for if the first Clause had stood in full force, very many Corporations, where the Surrenders were made by al<g ref="char:EOLhyphen"/>most common Consent, would stand dissolved, for want of Members. Now Sir, I would beg of you, to ad<g ref="char:EOLhyphen"/>mire the depth of this wise Provision.</p>
+            <p n="1">1. Men are not to be excused, or punished upon <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> merits of their own Actions, but according as it happens others agree with them or not. For by this provision, if the most execrable practice draws the Majority, and the most Innocent opinion wants it, the former is right, and goes clear, this is con<g ref="char:EOLhyphen"/>demned and punish'd. Admirable stroke of Legisla<g ref="char:EOLhyphen"/>ture!</p>
+            <p n="2">2. They were in a bad case that spoke first, be<g ref="char:EOLhyphen"/>cause they run the venture of the Majority; those that came after, especially at the latter end of Vo<g ref="char:EOLhyphen"/>ting, might be complaisant with their Votes, and have nothing to answer for: The most unhappy of all, are those that were streight-lac'd in Judgment, and could not deviate from their own sense in voting, whatever other Men thought. These excellent Notions rise out of this Proviso, it is pity they should be lost.</p>
+            <p n="3">3. But the perfection of all is, that here Men are allow'd the privilege of a Majority, but denyed the only means that can clearly prove it; a neat way of seeming to do somthing, but in truth nothing.
+<pb n="22" facs="tcp:95546:12"/>For Books, Papers, Records, <hi>viz.</hi> written Evidences, must not be admitted to prove this Majority. Now if I might, without offence, ask the Penner of this Proviso a plain Question, it should be this, how his Worship thinks Accounts can be made out without Writing? If such things depended upon the Testimo<g ref="char:EOLhyphen"/>ny of willing Swearers, Merchants would be good Clients to the Lawyers, and never be without right on both sides. It must be agreed that Polls though among a few, are seldom taken without written Notes, and in greater Assemblies, it cannot well be done otherwise; and Men who continue telling to the end immediatly write the Sum, and will not trust their memories a moment with it, if they can help it; such a slippery thing is a Number: then how can Majori<g ref="char:EOLhyphen"/>ties be proved by Memory, or otherwise, than by written Evidence? If it be pretended Books, and Notes are false, it were reasonable to require reasonable proof to support them; but the Exclusion of them from be<g ref="char:EOLhyphen"/>ing Evidence at all, is most unaccountable, and must needs produce Perjury in abundance.</p>
+            <p>Now Sir to conclude your trouble: I think I have exposed the wretchedness of these Clauses; it is pos<g ref="char:EOLhyphen"/>sible, I may not have touch'd all particulars, so ex<g ref="char:EOLhyphen"/>quisitely as the matters would bear; but you will observe many Defects, it may be, Mistakes, but it is your part now to excuse them; seeing it was your Commands, and not my own Inclination, that led me to these Observations; and therefore I tender them to your acceptance, only as a Testimony that I am most sincerely, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>P. 7. l. 16. for <hi>die</hi> read <hi>err.</hi> p. 14. l. 19. for <hi>Case</hi> read <hi>Law.</hi>
+            </p>
+            <pb facs="tcp:95546:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
